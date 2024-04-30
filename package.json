@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bulk-demo",
+  "version": "1.0.0",
+  "description": "Send bulk messages using whatsapp cloud api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Salman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
